@@ -28,8 +28,4 @@ https://public.tableau.com/app/profile/nipun.bhushan/viz/education_in_india/Stor
 
 #### Presentation Slides:
 
-<<<<<<< HEAD
 The presentation slides are located in the **ppt_files** folder.
-=======
-The presentation slides are located in the **ppt_files** folder.
->>>>>>> c66740c8f0cf928075d8ba06940631dd7124e2dd
